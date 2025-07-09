@@ -12,5 +12,19 @@
     "answer": [
       "A"
     ]
+  },
+  {
+    "id": 2,
+    "type": "single",
+    "question": "什么是SLAM？",
+    "options": [
+      "图像拼接",
+      "即时定位与地图构建",
+      "切图技术",
+      "HDR"
+    ],
+    "answer": [
+      "B"
+    ]
   }
 ]
