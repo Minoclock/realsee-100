@@ -12,33 +12,5 @@
     "answer": [
       "A"
     ]
-  },
-  {
-    "id": 2,
-    "type": "single",
-    "question": "什么是SLAM？",
-    "options": [
-      "用于球面图像拼接",
-      "即时定位与地图构建",
-      "球形图切六面",
-      "HDR技术"
-    ],
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 3,
-    "type": "single",
-    "question": "什么是HDR？",
-    "options": [
-      "SLAM定位",
-      "切图技术",
-      "高动态范围成像",
-      "球面拼图"
-    ],
-    "answer": [
-      "C"
-    ]
   }
 ]
